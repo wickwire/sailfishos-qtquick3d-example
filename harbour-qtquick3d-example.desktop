@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-qtquick3d-example
+Exec=harbour-qtquick3d-example
+Name=harbour-qtquick3d-example
+# translation example:
+# your app name in German locale (de)
+Name[de]=harbour-qtquick3d-example
+
